@@ -6,6 +6,7 @@ It's like an App folder.
 
 ## Structure folder
 
+```bash
 imports/
 ├── api
 ├── README.md
