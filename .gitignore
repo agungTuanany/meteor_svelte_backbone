@@ -1,0 +1,19 @@
+# Dependencies directories
+node_modules/
+
+# Miscellaneous
+~*
+*~
+
+# Meteor related
+.meteor/local
+.meteor/.finished-upgraders
+.meteor/.id
+.meteor/platforms
+packages/
+private/
+meteorpress.json
+setting.json
+smart.lock
+
+
