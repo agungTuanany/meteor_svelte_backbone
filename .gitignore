@@ -6,6 +6,7 @@ node_modules/
 *~
 
 # Meteor related
+# XXX Uncomment this for productions XXX
 .meteor/local
 .meteor/.finished-upgraders
 .meteor/.id
